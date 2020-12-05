@@ -1,5 +1,5 @@
 # horiMarketing
-This is my first assignment in my coding bootcamp.  For this assignment, we are tasked to edit the codebase that follows accessibility standards and optimize it for search engines.
+This is my first assignment in my coding bootcamp.  For this assignment, we are tasked to edit the codebase that follows accessibility standards and optimize it for search engines.  To do this, we will give our HTML better syntax, add alt attributes to img elements, and review the CSS style sheet that is linked to the page.
 
 The following is what I hope to accomplish:
 ```
@@ -15,3 +15,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+The link to the live website is: 
+https://jimnguyen220.github.io/horiMarketing/
