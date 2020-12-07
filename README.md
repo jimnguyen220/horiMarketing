@@ -18,3 +18,7 @@ THEN I find a concise, descriptive title
 
 The link to the live website is: 
 https://jimnguyen220.github.io/horiMarketing/
+
+I am also using w3schools.com as a reference for Semantic HTMLs.  Here is the link:
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
